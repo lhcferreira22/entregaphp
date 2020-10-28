@@ -1,0 +1,130 @@
+body{
+    width: 100%;
+}
+
+h2 h3 h4{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navigation{
+    background-color: #ff0000;
+}
+
+.navigation img{
+    width: 100px;
+    margin-left: 10px;
+}
+.navigation {
+    width: 100%;
+}
+.navigation a{
+    font-weight: bolder;
+    display: inline;
+    text-decoration: none;
+    color: inherit;
+    margin-left: 100px;
+    vertical-align: middle;
+    font-family: Arial, Helvetica, sans-serif;
+}
+    
+main{
+    width: 100%;
+    display: block;
+    margin-left: 230px ;
+}
+
+main img{
+    width: 60%;
+    margin: 0 auto;
+}
+
+.forma_pagamento h4{
+    clear: both;
+    color: #ff0000;
+}
+
+.categorias{
+    width: 18%;
+    height: 1200px;
+    display: block;
+    float: left;
+    padding: 1px;
+}
+
+.produtos{
+    width: 78%;
+}
+
+.box_produto{
+    float: right;
+    display: inline;
+    width: 20%;
+    height: 250px;
+    margin: 10px;
+    vertical-align: bottom;
+    text-align: center;
+    padding: 1px;
+}
+
+
+.preco{
+    color:#ff0000;
+    font-size: 15pt;
+    font-weight: bold;
+}
+
+footer{
+    width: 100%;
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.contato img{
+    width: 50px;
+}
+
+.mail{
+    width: 50%;
+    float: left;
+}
+
+.wpp{
+    width: 50%;
+    float: right;
+}
+
+.form{
+    clear: both;
+    width: 100%;
+}  
+
+.lojas{
+    width: 100%;
+    display: inline;
+    text-align: center;
+}
+
+.rj{
+    width: 30%;
+    display: block;
+    float: left;
+    border-right: 1px solid #000000;
+}
+
+.sp{
+    width: 30%;
+    display: block;
+    float: left;
+    border-right: 1px solid #000000;
+}
+
+.sc{
+    width: 30%;
+    display: block;
+    float: left;
+}
